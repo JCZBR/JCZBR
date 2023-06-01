@@ -5,7 +5,6 @@
     <p style="vertical-align:top;">- I'm 2️3y</p>
     <p>- 🖥 I'm a computer science student.
     <p>- 5️⃣th Semester.
-    <p>- 🌱 I’m currently learning TypeScript and Redux.
     <p>- 🟢🟡Brazilian 🇧🇷
 </div>
  
@@ -13,7 +12,7 @@
 </div>
 
 <div display="flex" justify-content="space-around" align="center" >
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCZBR)](https://github.com/JCZBR/github-readme-stats)
   
  </div>
 
